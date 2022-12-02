@@ -56,6 +56,7 @@ public:
         }
         
     }
+    
     Kolekcija& operator= (const Kolekcija& k)
     {
         if (this!=&k)
